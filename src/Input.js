@@ -69,9 +69,7 @@ const styles = StyleSheet.create({
     ios: {},
     android: {
       marginLeft: -4,
-      paddingLeft: 4,
-      borderBottomColor: "#000000",
-      borderBottomWidth: 1
+      paddingLeft: 4
     }
   })
 });
