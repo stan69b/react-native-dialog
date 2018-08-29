@@ -108,7 +108,8 @@ const styles = StyleSheet.create({
       alignItems: "center",
       paddingLeft: 20,
       paddingRight: 20
-    },
+    }
+  }),
   blur: {
     position: "absolute",
     backgroundColor: "rgba(255,255,255, 0.8)",
