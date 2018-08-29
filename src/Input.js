@@ -70,6 +70,8 @@ const styles = StyleSheet.create({
     android: {
       marginLeft: -4,
       paddingLeft: 4,
+      borderBottomColor: "#000000",
+      borderBottomWidth: 1
     }
   })
 });
